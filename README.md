@@ -6,12 +6,12 @@ Do you miss the `<%= render "view"` %>` from your Rails views?
 
 ## Usage
 
-```elixir
+```erb
 # render_example.eex
 <%= render "example", content: content %>
 ```
 
-```elixir
+```erb
 # example.eex
 <h1><%= content %></h1>
 ```
