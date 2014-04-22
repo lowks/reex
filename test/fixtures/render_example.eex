@@ -1,0 +1,3 @@
+<%= render "example", content: content %>
+<hr></hr>
+<%= render "example.eex", content: content %>
