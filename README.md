@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Do you miss the `<%= render "view"` %>` from your Rails views?
+Do you miss the `<%= render "view" %>` from your Rails views?
 
 ## Usage
 
