@@ -1,5 +1,5 @@
 language: elixir
-elixir: 0.12.5
+elixir: 1.0.0 
 notifications:
   recipients:
     - eduardo@gurgel.me
